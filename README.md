@@ -52,13 +52,6 @@ The project utilises the Uber Eats USA dataset. It applies Affinity Propagation,
 - **Size:** 10MB/ 63k+ and 11 columns
 - **Attributes:** Product names, categories, nutritional information, ingredients, labels, and packaging details
 
-### Preprocessing
-
-- **Missing Values:** Removed columns with >20% missing data; imputed others.
-- **Data Validation:** Identified and corrected/removal of invalid data and extreme outliers.
-- **Data Types:** One-hot encoded categorical variables; scaled numerical features.
-- **Duplicate Data:** Removed duplicate rows and redundant columns.
-
 ### Clustering Algorithms
 
 1. **Affinity Propagation:** Clusters data by identifying exemplars without needing a predefined number of clusters.
