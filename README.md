@@ -31,7 +31,7 @@ To run the clustering analysis, follow these steps:
     jupyter notebook
     ```
 
-4. In the Jupyter Notebook interface, open the `ClusterAnalysisOfUberEats.ipynb` file.
+4. In the Jupyter Notebook interface, open the `UberEatsClusterAnalysis.ipynb` file.
 
 5. Download the two datasets from [Uber Eats USA](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus?select=restaurants.csv) and rename them as `restaurants.csv` and `restaurant-menus.csv`. Place the files in the same directory as the Jupyter Notebook.
 
