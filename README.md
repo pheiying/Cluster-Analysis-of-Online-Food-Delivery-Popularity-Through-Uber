@@ -50,7 +50,6 @@ The project utilises the Uber Eats USA dataset. It applies Affinity Propagation,
 
 - **Source:** Uber Eats USA dataset available on [Uber Eats USA]([https://world.openfoodfacts.org/data](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus?select=restaurants.csv))
 - **Size:** 10MB/ 63k+ and 11 columns
-- **Attributes:** Product names, categories, nutritional information, ingredients, labels, and packaging details
 
 ### Clustering Algorithms
 
