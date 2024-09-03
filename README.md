@@ -77,3 +77,6 @@ In this project, the most suitable clustering method is spectral clustering. Thi
 This project forms part of an academic course and is intended solely for educational purposes. It may include references to copyrighted materials and any such materials are utilised exclusively for scholarly use. For guidance on sharing or distributing this work, it is advisable to seek consultation from your instructor or institution.
 
 For more details, see the [LICENSE](./LICENSE.txt) file.
+
+## Reference
+Dataset [Uber Eats USA](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus?select=restaurants.csv)
