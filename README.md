@@ -79,4 +79,4 @@ This project forms part of an academic course and is intended solely for educati
 For more details, see the [LICENSE](./LICENSE.txt) file.
 
 ## Reference
-Dataset [Uber Eats USA](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus?select=restaurants.csv)
+**Dataset:** [Uber Eats USA](https://www.kaggle.com/datasets/ahmedshahriarsakib/uber-eats-usa-restaurants-menus?select=restaurants.csv)
